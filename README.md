@@ -23,7 +23,7 @@ Modern, dark‑themed, multi‑threaded desktop web scanner built with Tkinter. 
 
 🌍 UI language: English & Türkçe
 
-# 📦 Installation
+```# 📦 Installation
 git clone https://github.com/spyizxa/sware-web-scanner
 cd sware-web-scanner
 
