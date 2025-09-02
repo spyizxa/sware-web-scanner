@@ -1,4 +1,14 @@
 # SwareCommunity - WeB Scanner
+<!-- SVG ikon + kullanıcı adı (responsive) -->
+<a href="https://t.me/spyizxa_0day" target="_blank" rel="noopener noreferrer" style="display:inline-flex;align-items:center;gap:8px;text-decoration:none;color:inherit;">
+  <!-- Telegram SVG (küçük, inline) -->
+  <svg width="20" height="20" viewBox="0 0 240 240" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+    <circle cx="120" cy="120" r="120" fill="#2AABEE"/>
+    <path d="M50 120l120-48c10-4 18 6 12 15L140 160c-4 6-12 6-16 2L86 132c-4-4-10-2-10 4v22c0 7-6 11-12 8C48 166 50 138 50 120z" fill="#fff"/>
+  </svg>
+  <span style="font-weight:600;color:#0088cc;">@spyizxa_0day</span>
+</a>
+
 Modern, dark‑themed, multi‑threaded desktop web scanner built with Tkinter. It performs fast recon and common vulnerability checks, adds AI‑assisted summaries & prioritization, and exports reports to TXT/JSON/PDF.
 
 # ✨ Features
