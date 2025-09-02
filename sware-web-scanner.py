@@ -1,4 +1,6 @@
 # telegram: @spyizxa_0day
+import webbrowser
+webbrowser.open('https://leakforum.com.tr/index.php')
 _Ae='Access-Control-Allow-Origin'
 _Ad='Feature-Policy'
 _Ac='Permissions-Policy'
