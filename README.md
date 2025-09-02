@@ -24,10 +24,12 @@ Modern, dark‑themed, multi‑threaded desktop web scanner built with Tkinter. 
 🌍 UI language: English & Türkçe
 
 # 📦 Installation
-```
+## 📦 Installation
+
+```shell
+# Clone
 git clone https://github.com/spyizxa/sware-web-scanner
 cd sware-web-scanner
-
 
 # (Optional) Create & activate virtualenv
 python -m venv .venv
@@ -36,13 +38,13 @@ python -m venv .venv
 # macOS/Linux
 source .venv/bin/activate
 
-
 # Install deps
 pip install -r requirements.txt
 
-
 # Run
-python sware-web-scanner.py```
+python sware-web-scanner.py
+```
+
 
 Minimal runtime deps
 
