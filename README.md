@@ -24,7 +24,6 @@ Modern, dark‑themed, multi‑threaded desktop web scanner built with Tkinter. 
 🌍 UI language: English & Türkçe
 
 # 📦 Installation
-## 📦 Installation
 
 ```shell
 # Clone
