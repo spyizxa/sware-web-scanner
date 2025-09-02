@@ -25,7 +25,7 @@ Modern, dark‑themed, multi‑threaded desktop web scanner built with Tkinter. 
 
 ```# 📦 Installation
 git clone https://github.com/spyizxa/sware-web-scanner
-cd sware-web-scanner
+cd sware-web-scanner```
 
 
 # (Optional) Create & activate virtualenv
