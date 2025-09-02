@@ -46,7 +46,7 @@ python sware-web-scanner.py
 ```
 
 
-Minimal runtime deps
+# Minimal runtime deps
 
 tkinter 🖼️ – GUI framework (built‑in in many Python distributions)
 
@@ -62,13 +62,13 @@ reportlab 📄 – PDF export
 
 Missing optional packages simply disable related features; the app still works.
 
-🚀 Usage
+# 🚀 Usage
 
 Launch the app: python sware-web-scanner.py
 
 Enter Target URL (e.g., https://example.com).
 
-Choose Profile:
+# Choose Profile:
 
 Quick (Hızlı): common checks + fast vuln probes
 
@@ -84,7 +84,7 @@ Click 🚀 Scan. Monitor logs in Console, findings in Results.
 
 Export with 💾 TXT / JSON / 📄 PDF.
 
-🧠 AI Analysis
+# 🧠 AI Analysis
 
 One‑click summary after a run: prioritized risks, likely root causes, and quick‑win fixes.
 
